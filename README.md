@@ -1,6 +1,6 @@
 ### Olá! Me chamo Kamilla Faust 🌻
 
-- 🔭 Atualmente estou trabalhando com front-end
+- 💻 Atualmente estou trabalhando com front-end
 
 <div align="center">
   <a href="https://github.com/kamillafaust">
